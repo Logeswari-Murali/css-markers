@@ -1,14 +1,16 @@
 body{
   font-family: 'Poppins', sans-serif;
+  background-color: rgb(0, 0, 0);
 }
 
 h1 {
   text-align: center;
   font-weight: 700;
+  color: white;
 }
 
 .container {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
   padding: 10px 0;
 }
 
@@ -36,12 +38,12 @@ h1 {
 
 .red {
   background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
-  box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+  box-shadow: 0 0 20px 0 rgba(255, 70, 70, 0.8);
 }
 
 .green {
   background: linear-gradient(#55680D, #71F53E, #116C31);
-  box-shadow: 0 0 20px 0 #3B7E20CC;
+  box-shadow: 0 0 20px 0 #83ff52cc;
 }
 
 .blue {
